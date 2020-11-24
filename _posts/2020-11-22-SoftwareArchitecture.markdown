@@ -147,7 +147,7 @@ Most often, there are 4 layers in common information systems:
 - Business logic layer (also known as domain layer)
 - Data access layer (also known as data storage layer)
 
-### **Usage**
+### Usage
 
 * Common desktop applications.
 
@@ -157,7 +157,7 @@ Most often, there are 4 layers in common information systems:
 
 This template consists of two parts: server and many clients . The server component provides services to the client components. Clients request services from the server, and it, in turn, provides these very services to clients. Moreover, the server continues to "eavesdrop" on client requests.
 
-### **Usage**
+### Usage
 
 Online applications (email, document sharing, banking).
 
@@ -165,7 +165,7 @@ Online applications (email, document sharing, banking).
 
 This pattern also involves two participants - master and slaves. The Leader distributes tasks to identical Followers and calculates the final result based on the results received from its "Subordinates".
 
-### **Usage**
+### Usage
 
 * In database replication. There, the main database is considered an authoritative source, and the subordinate databases are synchronized with it.
 
@@ -175,7 +175,7 @@ This pattern also involves two participants - master and slaves. The Leader dist
 
 This pattern is suitable for systems that generate and process data streams. Each processing step takes place inside a filter component. Data for processing is transmitted via channels. These channels can be used to buffer or synchronize data.
 
-### **Usage**
+### Usage
 
 * Compilers. Sequential filters perform lexical, parsing, semantic analysis, and code generation.
 
@@ -187,15 +187,15 @@ This pattern is needed to structure distributed systems with disconnected compon
 
 The server hosts its capabilities (services and characteristics) with an intermediary (broker). The client requests a service from the broker. The broker then redirects the client to the appropriate service from its registry.
 
-### **Usage**
+### Usage
 
-· Message brokers by type [Apache ActiveMQ] (https://en.wikipedia.org/wiki/Apache_ActiveMQ), [Apache Kafka] (https://en.wikipedia.org/wiki/Apache_Kafka),  [RabbitMQ] (https://en.wikipedia.org/wiki/RabbitMQ) and [JBoss Messaging] (https://en.wikipedia.org/wiki/JBoss_Messaging).
+* Message brokers by type (Apache ActiveMQ, Apache Kafka, RabbitMQ, JBoss Messaging)
 
 ### Peer-to-peer template
 
 There are separate components in this template, the so-called  peers. Peers can act as a client requesting services from other peers (peers), and a server providing services to other peers. A peer can be a client or a server, or all at once, and can dynamically change its role over time.
 
-### **Usage**
+### Usage
 
 *  File sharing networks (Gnutella and G2)
 
@@ -207,7 +207,7 @@ There are separate components in this template, the so-called  peers. Peers can 
 
 This template mainly interacts with events and has 4 main components: event source, event listener, channel and event bus. Sources place messages for specific channels on the event bus. Listeners subscribe to specific channels. Listeners are notified of the appearance of messages posted on channels from their subscription.
 
-### **Usage**
+### Usage
 
 Android development
 
@@ -225,7 +225,7 @@ This pattern is also known as the MVC pattern. It divides interactive applicatio
 
 This is done in order to differentiate the internal presentation of information from the way it is presented and received from the user. This design isolates components and allows for efficient code reuse.
 
-### **Usage**
+### Usage
 
 * Architecture of WWW-applications written in the main programming languages.
 
@@ -243,7 +243,7 @@ This pattern is suitable for problems for which there are no clear deterministic
 
 All components have access to the board. Components can produce new data objects that are added to the board. Components look for specific kinds of data on the board. One way to search is to match patterns against an existing source of knowledge.
 
-### **Usage**
+### Usage
 
 * speech recognition;
 
@@ -257,7 +257,7 @@ All components have access to the board. Components can produce new data objects
 
 It is suitable for developing a component that must interpret programs written in a special programming language. Basically, it describes how to evaluate strings (in other words: "sentences" or "expressions") written in some particular programming language. The point is to assign a class to each character in the language.
 
-## **Usage**
+## Usage
 
 * Languages ​​of queries to the database (SQL);
 
