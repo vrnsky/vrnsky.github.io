@@ -30,7 +30,7 @@ twitter_username: voronyanskye
 github_username:  vrnsky
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: jekyll-theme-slate
 plugins:
   - jekyll-feed
 
