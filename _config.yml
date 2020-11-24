@@ -30,7 +30,7 @@ twitter_username: voronyanskye
 github_username:  vrnsky
 
 # Build settings
-theme: jekyll-theme-cayman
+theme: minima
 plugins:
   - jekyll-feed
 
