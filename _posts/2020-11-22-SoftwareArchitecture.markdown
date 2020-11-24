@@ -177,9 +177,9 @@ This pattern is suitable for systems that generate and process data streams. Eac
 
 ### **Usage**
 
-· Compilers. Sequential filters perform lexical, parsing, semantic analysis, and code generation.
+* Compilers. Sequential filters perform lexical, parsing, semantic analysis, and code generation.
 
-· Workflows in bioinformatics.
+* Workflows in bioinformatics.
 
 ### Mediator template
 
@@ -197,11 +197,11 @@ There are separate components in this template, the so-called  peers. Peers can 
 
 ### **Usage**
 
-· File sharing networks ([Gnutella] (https://en.wikipedia.org/wiki/Gnutella) and [G2] (https://en.wikipedia.org/wiki/Gnutella2))
+*  File sharing networks (Gnutella and G2)
 
-· Multimedia Protocols ([P2PTV] (https://en.wikipedia.org/wiki/P2PTV) and [PDTP] (https://en.wikipedia.org/wiki/Peer_Distributed_Transfer_Protocol))
+* Multimedia Protocols (P2PTV and PDTP)
 
-· Proprietary multimedia applications (Spotify)
+* Proprietary multimedia applications (Spotify)
 
 ### Event Bus
 
@@ -227,31 +227,31 @@ This is done in order to differentiate the internal presentation of information 
 
 ### **Usage**
 
-· Architecture of WWW-applications written in the main programming languages.
+* Architecture of WWW-applications written in the main programming languages.
 
-· Web frameworks (for example, [Django] (https://en.wikipedia.org/wiki/Django_%28web_framework%29) and [Rails] (https://en.wikipedia.org/ wiki / Ruby_on_Rails))
+* Web frameworks (for example, Django and Rails)
 
 ### Board
 
 This pattern is suitable for problems for which there are no clear deterministic solutions. The Board template has 3 main components:
 
-· board is a structured global memory containing objects from the space of possible solutions;
+* board is a structured global memory containing objects from the space of possible solutions;
 
-· source of knowledge - specialized modules with their own presentation;
+* source of knowledge - specialized modules with their own presentation;
 
-· control components - selects, configures and executes modules.
+* control components - selects, configures and executes modules.
 
 All components have access to the board. Components can produce new data objects that are added to the board. Components look for specific kinds of data on the board. One way to search is to match patterns against an existing source of knowledge.
 
 ### **Usage**
 
-· speech recognition;
+* speech recognition;
 
-· Identification and tracking of vehicles;
+* Identification and tracking of vehicles;
 
-· Determination of protein structures;
+* Determination of protein structures;
 
-· Interpretation of signals Sonar.
+* Interpretation of signals Sonar.
 
 ### Interpreter
 
@@ -259,9 +259,9 @@ It is suitable for developing a component that must interpret programs written i
 
 ## **Usage**
 
-· Languages ​​of queries to the database (SQL);
+* Languages ​​of queries to the database (SQL);
 
-· Languages ​​that are used to describe data transfer protocols.
+* Languages ​​that are used to describe data transfer protocols.
 
 # **Comparison of architectural patterns**
 
