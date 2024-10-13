@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: Egor Voronianskii | Tech
 
 # import hextra as module
 module:
@@ -18,14 +18,14 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    - name: Projects
+      pageRef: /projects
       weight: 1
+    - name: How to
+      pageRef: /howto
+      weight: 2
     - name: About
       pageRef: /about
-      weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
       weight: 3
     - name: Search
       weight: 4
@@ -33,14 +33,29 @@ menu:
         type: search
     - name: GitHub
       weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
+      url: "https://github.com/vrnsky"
       params:
         icon: github
     - name: Twitter
       weight: 6
-      url: "https://twitter.com/"
+      url: "https://twitter.com/VoronyanskyE"
       params:
         icon: x-twitter
+    - name: Substack
+      weight: 7
+      url: "https://vrnsky.substack.com"
+      params:
+        icon: substack
+    - name: Medium
+      weight: 8
+      url: "https://vrnsky.medium.com"
+      params:
+        icon: medium
+    - name: Mastodon
+      weight: 9
+      url: "https://me.dm/@vrnsky"
+      params:
+        icon: mastodon
 
 params:
   navbar:
