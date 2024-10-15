@@ -2,4 +2,4 @@
 title: How to
 ---
 
-There are collection of usefull information per tools
+There are collection of useful information per tools

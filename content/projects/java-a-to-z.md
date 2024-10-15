@@ -5,6 +5,5 @@ sidebar:
   open: true
 ---
 
-Study project
-
-![IMG](https://img.shields.io/badge/status-finished-blue)
+### Project description
+It is study project
