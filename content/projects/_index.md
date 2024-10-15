@@ -3,6 +3,7 @@ title: Projects
 type: docs
 sidebar:
   open: true
+next: /java-a-to-z
 ---
 
-There are useful information about Java
+Here collected information about my projects

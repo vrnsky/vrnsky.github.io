@@ -36,5 +36,6 @@ Happy coding, and enjoy exploring the blog! 🚀
   {{< card link="projects" title="Projects" icon="light-bulb" >}}
   {{< card link="howto" title="How to" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
+  {{< card link="books" title="Books" icon="bookmark" >}}
   {{< card link="talks" title="Talks" icon="speakerphone" >}}
 {{< /cards >}}
