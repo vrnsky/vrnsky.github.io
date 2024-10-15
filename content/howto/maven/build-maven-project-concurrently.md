@@ -11,6 +11,7 @@ mvn clean package -T X
 ```
 
 where `X` - number of threads that will be using by Maven to build your project.
+
 Example:
 ```bash
 mvn clean package -X 4
