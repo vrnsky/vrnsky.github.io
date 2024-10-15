@@ -3,7 +3,7 @@ title: Projects
 type: docs
 sidebar:
   open: true
-next: java-a-to-z
+next: camunda-message-starter
 ---
 
 Here collected information about my projects
