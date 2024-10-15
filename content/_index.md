@@ -9,7 +9,7 @@ Hello and welcome! I'm Egor, a Java developer with over 6 years of experience in
 
 - **Java Deep Dives**: Explore advanced Java concepts, best practices, and performance optimization techniques.
 - **Fintech Insights**: Gain perspectives on how technology is shaping the financial industry.
-- **Open Source Contributions**: Learn about my experiences contributing to projects like [Blue Pair](https://github.com/aurasphere/blue-pair) and [Spring Boot Changelog](https://github.com/sepanniemi/spring-boot-changelog).
+- **Open Source Contributions**: Learn about my experiences contributing to projects
 - **Software Engineering Tips**: Discover practical advice on clean code, design patterns, and effective problem-solving.
 
 ## Featured Posts

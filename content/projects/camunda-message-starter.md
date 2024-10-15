@@ -1,10 +1,9 @@
 ---
-title: Java A to Z
+title: Camunda Message Spring Boot Starter
 type: docs
 sidebar:
   open: true
-next: kotlin-a-to-z
+next: java-a-to-z
 ---
 
 ### Project description
-It is study project

@@ -1,9 +1,9 @@
 ---
-title: Java A to Z
+title: TypeScript A to Z
 type: docs
 sidebar:
   open: true
-next: kotlin-a-to-z
+next: typescript-a-to-z
 ---
 
 ### Project description
