@@ -4,6 +4,8 @@ type: docs
 sidebar:
   open: true
 next: build-maven-project-without-tests
+tags:
+  - maven
 ---
 
 If you would like to run build of Maven project in concurrent mode you can use following command
