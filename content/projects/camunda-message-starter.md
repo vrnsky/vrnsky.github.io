@@ -11,7 +11,7 @@ Send message to Camunda, it is trivial task, but it brings a lot of boilerplate 
 By using this project you can save you time.
 
 ### Usage
-```xml
+```xml {filename="pom.xml"}
 <dependency>
     <groupId>io.vrnsky</groupId>
     <artifactId>camunda-messaging-starter</artifactId>
@@ -73,3 +73,5 @@ In logs you should see something like this
 ```text
 CamundaMessageTemplate   : baseUrl obtained from configs = http://localhost:8080
 ```
+
+Full source available on [Github](https://github.com/vrnsky/camunda-messaging-starter)
