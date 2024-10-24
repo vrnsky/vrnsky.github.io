@@ -14,9 +14,9 @@ Hello and welcome! I'm Egor, a Java developer with over 6 years of experience in
 
 ## Featured Posts
 
+- Building Spring Boot Applications with GraalVM: Starter guide, read it on [Medium](https://medium.com/@vrnsky/building-spring-boot-applications-with-graalvm-starter-guide-0e1aaadf3db5), [Substack](https://vrnsky.substack.com/p/building-spring-boot-applications)
 - Understanding CGLIB in Spring Boot: Enhancing Runtime Code Generation, read it on [Medium](https://vrnsky.medium.com/understanding-cglib-in-spring-boot-enhancing-runtime-code-generation-d33907499834), [Substack](https://vrnsky.substack.com/p/understanding-cglib-in-spring-boot)
 - Mastering Error Handling in Spring Boot with ProblemDetails, read it on [Medium](https://medium.com/@vrnsky/mastering-error-handling-in-spring-boot-with-problemdetails-33eac63a2888), [Substack](https://vrnsky.substack.com/p/mastering-error-handling-in-spring)
-- Mastering JUnit 5: Advanced Techniques for Efficient and Powerful testing, read it on [Medium](https://medium.com/@vrnsky/mastering-junit-5-advanced-techniques-for-efficient-and-powerful-testing-0203992bdb95), [Substack](https://vrnsky.substack.com/p/mastering-junit-5-advanced-techniques) 
 
 ## Stay Connected
 
