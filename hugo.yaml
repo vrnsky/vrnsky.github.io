@@ -58,7 +58,7 @@ menu:
         icon: mastodon
 services:
   googleAnalytics:
-    ID: G-ZQF1BE2B30
+    ID: G-GDQMTGSQTJ
 params:
   navbar:
     displayTitle: true
