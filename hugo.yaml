@@ -56,7 +56,9 @@ menu:
       url: "https://me.dm/@vrnsky"
       params:
         icon: mastodon
-
+services:
+  googleAnalytics:
+    ID: G-ZQF1BE2B30
 params:
   navbar:
     displayTitle: true
