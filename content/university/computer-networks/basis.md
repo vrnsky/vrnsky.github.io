@@ -3,6 +3,7 @@ title: Introduction
 type: docs
 sidebar:
   open: true
+next: information
 ---
 
 ### What is a computer network?
