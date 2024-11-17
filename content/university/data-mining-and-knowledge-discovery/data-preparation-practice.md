@@ -78,5 +78,5 @@ plt.title('Correlation Heatmap of Iris Features')
 plt.show()
 ```
 
-![Comparison](../img/comparison.png)
-![Heatmap](../img/heatmap.png)
+![Comparison](https://raw.githubusercontent.com/vrnsky/vrnsky.github.io/refs/heads/main/content/university/img/comparison.png "Comparison")
+![Heatmap](https://raw.githubusercontent.com/vrnsky/vrnsky.github.io/refs/heads/main/content/university/img/heatmap.png "Heatmap")
