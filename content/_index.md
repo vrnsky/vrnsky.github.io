@@ -38,4 +38,5 @@ Happy coding, and enjoy exploring the blog! 🚀
   {{< card link="about" title="About" icon="user" >}}
   {{< card link="books" title="Books" icon="bookmark" >}}
   {{< card link="talks" title="Talks" icon="speakerphone" >}}
+  {{< card link="university" title="Unitversity" icon="academic-cap" >}}
 {{< /cards >}}
