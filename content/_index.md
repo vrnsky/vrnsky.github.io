@@ -22,7 +22,7 @@ Hello and welcome! I'm Egor, a Java developer with over 6 years of experience in
 
 - 📘 Follow my [Medium](https://vrnsky.medium.com) for in-depth articles
 - 📧 Subscribe to my [Substack](https://vrnsky.substack.com) newsletter for exclusive content
-- 🐦 Connect with me on [Twitter](https://twitter.com/VoronyanskyE), [Mastodon](https://me.dm/@vrnsky) for quick tips and tech news
+- 🐦 Connect with me on [Mastodon](https://me.dm/@vrnsky) for quick tips and tech news
 
 ## Let's Collaborate
 
