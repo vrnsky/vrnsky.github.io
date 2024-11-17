@@ -4,6 +4,7 @@ type: docs
 sidebar:
 open: true
 next: data-preparation-techniques
+prev: what-is-data-mining
 ---
 
 Data collection and preparation is like building a strong foundation for a house - 

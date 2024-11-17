@@ -3,6 +3,7 @@ title: Data preparation practice
 type: docs
 sidebar:
   open: true
+prev: data-collection-and-preparation
 ---
 
 ```python {filename="data-preparation.py"}

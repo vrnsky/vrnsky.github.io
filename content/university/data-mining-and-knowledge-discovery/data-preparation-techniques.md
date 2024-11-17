@@ -4,6 +4,7 @@ type: docs
 sidebar:
 open: true
 next: data-preparation-practice
+prev: data-collection-and-preparation
 ---
 
 There are several ways to handle missing data:

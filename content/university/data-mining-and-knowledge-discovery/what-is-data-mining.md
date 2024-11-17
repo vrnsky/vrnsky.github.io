@@ -4,6 +4,7 @@ type: docs
 sidebar:
   open: true
 next: data-collection-and-preparation
+prev: introduction
 ---
 
 ### Definition
