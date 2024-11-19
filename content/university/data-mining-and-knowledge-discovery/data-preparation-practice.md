@@ -4,6 +4,7 @@ type: docs
 sidebar:
   open: true
 prev: data-collection-and-preparation
+next: decision-trees-concept
 ---
 
 ```python {filename="data-preparation.py"}
