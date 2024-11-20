@@ -40,6 +40,6 @@ pulumi new aws-java
 
 ### Access full article
 {{< cards >}}
-{{< card icon="medium" title="Medium" subtitle="Read full article" link="" >}}
-{{< card icon="substack" title="Subtack" subtitle="Read full article" link="" >}}
+{{< card icon="medium" title="Medium" subtitle="Follow & read" link="" >}}
+{{< card icon="substack" title="Subtack" subtitle="Subscribe & read" link="" >}}
 {{< /cards >}}

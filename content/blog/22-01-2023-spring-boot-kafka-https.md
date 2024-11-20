@@ -106,5 +106,5 @@ services:
 
 ### Access full article
 {{< cards >}}
-{{< card icon="medium" title="Read full article on Medium" link="https://medium.com/@vrnsky/spring-boot-kafka-https-6d5765762256" >}}
+{{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/spring-boot-kafka-https-6d5765762256" >}}
 {{< /cards >}}

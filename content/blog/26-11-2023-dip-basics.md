@@ -62,5 +62,5 @@ cv.destroyAllWindows()
 
 ### Access full article
 {{< cards >}}
-{{< card icon="medium" title="Read full article on Medium" link="https://medium.com/@vrnsky/digital-image-processing-basics-58d572cf5df4" >}}
+{{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/digital-image-processing-basics-58d572cf5df4" >}}
 {{< /cards >}}

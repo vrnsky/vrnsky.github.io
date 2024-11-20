@@ -40,6 +40,6 @@ After that, you should see this screen at `localhost:8080`
 
 ### Access full article
 {{< cards >}}
-{{< card icon="medium" title="Medium" subtitle="Read full article" link="https://medium.com/@vrnsky/spring-boot-infisical-managing-your-sensitive-configuration-5ecfe9a5db08" >}}
-{{< card icon="substack" title="Substack" subtitle="Read full article" link="https://vrnsky.substack.com/p/spring-boot-and-infisical-managing" >}}
+{{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/spring-boot-infisical-managing-your-sensitive-configuration-5ecfe9a5db08" >}}
+{{< card icon="substack" title="Substack" subtitle="Subscribe & read" link="https://vrnsky.substack.com/p/spring-boot-and-infisical-managing" >}}
 {{< /cards >}}

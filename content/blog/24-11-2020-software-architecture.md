@@ -29,5 +29,5 @@ An example of an application with one architectural level are applications such 
 
 ### Access full article
 {{< cards >}}
-{{< card icon="medium" title="Read full article on Medium" link="https://medium.com/@vrnsky/software-architecture-7a3630d66f0d">}}
+{{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/software-architecture-7a3630d66f0d">}}
 {{< /cards >}}

@@ -126,5 +126,5 @@ public class FunctionConfig {
 
 ### Access full article
 {{< cards >}}
-{{< card icon="medium" title="Read full article on Medium" link="http://localhost:1313/blog/24-12-2023-sb-cf-kafka/" >}}
+{{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/spring-cloud-functions-kafka-how-to-interact-asynchronous-456193d09ff1" >}}
 {{< /cards >}}

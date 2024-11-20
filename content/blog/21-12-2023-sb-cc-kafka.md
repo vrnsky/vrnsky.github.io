@@ -33,5 +33,5 @@ We must set up a remote repository and credentials to make the configuration acc
 
 ### Access full article
 {{< cards >}}
-{{< card icon="medium" title="Read full article on Medium" link="https://vrnsky.medium.com/spring-cloud-config-spring-cloud-bus-kafka-how-to-set-up-automatic-updates-of-your-96999930bc2b" >}}
+{{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://vrnsky.medium.com/spring-cloud-config-spring-cloud-bus-kafka-how-to-set-up-automatic-updates-of-your-96999930bc2b" >}}
 {{< /cards >}}

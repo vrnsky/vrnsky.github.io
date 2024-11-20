@@ -33,5 +33,5 @@ After this, we can check that installation was successful
 
 ### Access full article
 {{< cards >}}
-{{< card icon="medium" title="Check out tutorial on Medium" link="https://medium.com/@vrnsky/hashicorp-vault-getting-started-4a3b7d4abf48" >}}
+{{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/hashicorp-vault-getting-started-4a3b7d4abf48" >}}
 {{< /cards >}}

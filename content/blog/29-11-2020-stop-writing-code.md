@@ -81,5 +81,5 @@ What problems do you see in this code? I see the following problems
 
 ### Access full article
 {{< cards >}}
-{{< card icon="medium" title="Read full article on Medium" link="https://medium.com/@vrnsky/stop-writing-code-inside-main-method-5747458f9191" >}}
+{{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/stop-writing-code-inside-main-method-5747458f9191" >}}
 {{< /cards >}}

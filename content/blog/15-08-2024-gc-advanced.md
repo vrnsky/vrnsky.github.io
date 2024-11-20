@@ -33,6 +33,6 @@ The key features:
 
 ### Access full article
 {{< cards >}}
-{{< card icon="medium" title="Medium" subtitle="Read full article" link="https://medium.com/@vrnsky/advanced-java-garbage-collection-g1-and-zgc-54280bb59cc6" >}}
-{{< card icon="substack" title="Substack" subtitle="Read full article" link="https://vrnsky.substack.com/p/advanced-java-garbage-collection" >}}
+{{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/advanced-java-garbage-collection-g1-and-zgc-54280bb59cc6" >}}
+{{< card icon="substack" title="Substack" subtitle="Subscribe & read" link="https://vrnsky.substack.com/p/advanced-java-garbage-collection" >}}
 {{< /cards >}}

@@ -26,5 +26,5 @@ Architecture refers to the conceptual essence of an application, the principal d
 
 ### Acccess full article
 {{< cards >}}
-{{< card icon="medium" title="Read full article on Medium" link="https://medium.com/@vrnsky/software-architecture-2-aa2dede86357" >}}
+{{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/software-architecture-2-aa2dede86357" >}}
 {{< /cards >}}
