@@ -39,4 +39,7 @@ Let me introduce to you TestFactory from JUnit 5. You may argue that artificial 
 a test factory, and I agree with you, but the article is designed to give you an idea 
 of how you can achieve more tests without writing more code.
 
+### Access full article
+{{< cards >}}
 {{< card icon="medium" title="Read full article on Medium" link="https://medium.com/@vrnsky/junit-5-how-to-write-more-tests-with-less-code-23aea5e7ee16" >}}
+{{< /cards >}}

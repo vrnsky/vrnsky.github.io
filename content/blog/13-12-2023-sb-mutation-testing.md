@@ -27,4 +27,7 @@ The mutation can be killed or survived during the test phase. The killed mutatio
 notifying us that the unit tests caught the mutation and failed the unit test; on the other hand,
 if the mutation survived, that is a bad sign that the unit test did not die with code changes.
 
+### Access full article
+{{< cards >}}
 {{< card icon="medium" title="Read full article on Medium" link="https://medium.com/@vrnsky/spring-boot-mutation-testing-with-junit-5-testcontainiers-and-pit-1f70e22753ef" >}}
+{{< /cards >}}

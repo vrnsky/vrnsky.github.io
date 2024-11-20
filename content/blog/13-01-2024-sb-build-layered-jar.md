@@ -32,6 +32,7 @@ ENTRYPOINT ["java", "org.springframework.boot.loader.launch.JarLauncher"]
 EXPOSE 8080
 ```
 
+### Access full article
 {{< cards >}}
 {{< card icon="medium" title="Medium" subtitle="Read full article" link="https://medium.com/@vrnsky/spring-boot-how-to-build-layered-jar-81bfe6d843f6" >}}
 {{< card icon="substack" title="Substack" subtitle="Read full article" link="https://vrnsky.substack.com/p/spring-boot-how-to-build-layered" >}}

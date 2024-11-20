@@ -176,4 +176,7 @@ data class CamundaMessage(
 }
 ```
 
+### Access full article
+{{< cards >}}
 {{< card icon="medium" link="https://medium.com/@vrnsky/write-your-spring-boot-3-x-starter-with-kotlin-maven-a75f367c6254" title="Read full article on Medium" >}}
+{{< /cards >}}

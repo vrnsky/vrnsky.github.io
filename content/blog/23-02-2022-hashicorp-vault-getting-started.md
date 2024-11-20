@@ -30,4 +30,8 @@ brew install hashicorp/tap/consul
 
 After this, we can check that installation was successful
 ![Consul Working](consul-1.png)
+
+### Access full article
+{{< cards >}}
 {{< card icon="medium" title="Check out tutorial on Medium" link="https://medium.com/@vrnsky/hashicorp-vault-getting-started-4a3b7d4abf48" >}}
+{{< /cards >}}

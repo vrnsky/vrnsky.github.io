@@ -79,4 +79,7 @@ What problems do you see in this code? I see the following problems
 - Structural programming style — the switch statement encourages this
 - Using the Scanner, but it can be forgiven because it has convenient methods for getting numbers right away.
 
+### Access full article
+{{< cards >}}
 {{< card icon="medium" title="Read full article on Medium" link="https://medium.com/@vrnsky/stop-writing-code-inside-main-method-5747458f9191" >}}
+{{< /cards >}}

@@ -24,4 +24,7 @@ All applications do have architectures because they all result from key design d
 The architect is the person, or in most cases, group who makes the principal decisions about applications, who establishes and (it is hoped) maintains the foundational design.
 Architecture refers to the conceptual essence of an application, the principal decision regarding its design, the key abstractions that characterise the application.
 
+### Acccess full article
+{{< cards >}}
 {{< card icon="medium" title="Read full article on Medium" link="https://medium.com/@vrnsky/software-architecture-2-aa2dede86357" >}}
+{{< /cards >}}
