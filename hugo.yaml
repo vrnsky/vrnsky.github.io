@@ -27,6 +27,9 @@ menu:
     - name: About
       pageRef: /about
       weight: 3
+    - name: Blog
+      weight: 4
+      pageRef: /blog
     - name: Search
       weight: 4
       params:
@@ -36,23 +39,18 @@ menu:
       url: "https://github.com/vrnsky"
       params:
         icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/VoronyanskyE"
-      params:
-        icon: x-twitter
     - name: Substack
-      weight: 7
+      weight: 6
       url: "https://vrnsky.substack.com"
       params:
         icon: substack
     - name: Medium
-      weight: 8
+      weight: 7
       url: "https://vrnsky.medium.com"
       params:
         icon: medium
     - name: Mastodon
-      weight: 9
+      weight: 8
       url: "https://me.dm/@vrnsky"
       params:
         icon: mastodon
