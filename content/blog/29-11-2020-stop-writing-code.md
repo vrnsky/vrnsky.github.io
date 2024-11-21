@@ -80,6 +80,6 @@ What problems do you see in this code? I see the following problems
 - Using the Scanner, but it can be forgiven because it has convenient methods for getting numbers right away.
 
 ### Access full article
-{{< cards >}}
+{{< cards cols="2" >}}
 {{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/stop-writing-code-inside-main-method-5747458f9191" >}}
 {{< /cards >}}

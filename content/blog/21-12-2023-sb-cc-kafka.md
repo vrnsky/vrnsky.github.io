@@ -32,6 +32,6 @@ The second part is to create a cloud config server and set up the correct config
 We must set up a remote repository and credentials to make the configuration accessible.
 
 ### Access full article
-{{< cards >}}
+{{< cards cols="2" >}}
 {{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://vrnsky.medium.com/spring-cloud-config-spring-cloud-bus-kafka-how-to-set-up-automatic-updates-of-your-96999930bc2b" >}}
 {{< /cards >}}

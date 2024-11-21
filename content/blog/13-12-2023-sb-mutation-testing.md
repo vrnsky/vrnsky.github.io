@@ -28,6 +28,6 @@ notifying us that the unit tests caught the mutation and failed the unit test; o
 if the mutation survived, that is a bad sign that the unit test did not die with code changes.
 
 ### Access full article
-{{< cards >}}
+{{< cards cols="2" >}}
 {{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/spring-boot-mutation-testing-with-junit-5-testcontainiers-and-pit-1f70e22753ef" >}}
 {{< /cards >}}

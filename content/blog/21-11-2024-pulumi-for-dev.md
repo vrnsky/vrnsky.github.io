@@ -3,7 +3,7 @@ title: Pulumi for Java Developer - Getting started with IaC
 type: blog
 sidebar:
   open: true
-date: 2024-11-20
+date: 2024-11-21
 ---
 
 ### Introduction
@@ -39,7 +39,7 @@ pulumi new aws-java
 ```
 
 ### Access full article
-{{< cards >}}
-{{< card icon="medium" title="Medium" subtitle="Follow & read" link="" >}}
-{{< card icon="substack" title="Subtack" subtitle="Subscribe & read" link="" >}}
+{{< cards cols="2" >}}
+{{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://vrnsky.medium.com/pulumi-for-java-developers-getting-started-with-iac-53b9f34ab46c" >}}
+{{< card icon="substack" title="Subtack" subtitle="Subscribe & read" link="https://open.substack.com/pub/vrnsky/p/pulumi-for-java-developers-getting?r=3ypfws&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true" >}}
 {{< /cards >}}

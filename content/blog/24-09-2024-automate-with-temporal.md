@@ -48,7 +48,7 @@ Rent a car
 {{% /steps %}}
 
 ### Access full article
-{{< cards >}}
+{{< cards cols="2">}}
 {{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/automate-your-business-processes-with-temporal-io-and-java-0e2e924be6e8" >}}
 {{< card icon="substack" title="Substack" subtitle="Subscribe & read" link="https://medium.com/@vrnsky/automate-your-business-processes-with-temporal-io-and-java-0e2e924be6e8" >}}
 {{< /cards >}}

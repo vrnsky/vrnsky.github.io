@@ -28,6 +28,6 @@ An example of an application with one architectural level are applications such 
 2. Code in peer-to-peer applications is also vulnerable to rework and reversal. Business security is minimal, because in the case of reverse engineering, an attacker or competitor can gain access to your codebase, which can lead to financial losses. Example — your application works with finances, attackers have exposed part of your system’s code and can now bypass some of your checks and thus use your application for fraud
 
 ### Access full article
-{{< cards >}}
+{{< cards cols="2" >}}
 {{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/software-architecture-7a3630d66f0d">}}
 {{< /cards >}}

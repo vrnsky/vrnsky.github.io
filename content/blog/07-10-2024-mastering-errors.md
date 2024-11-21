@@ -57,7 +57,7 @@ public class ProblemDetailsConfig {
 ```
 
 ### Access full article
-{{< cards >}}
+{{< cards cols="2" >}}
 {{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/mastering-error-handling-in-spring-boot-with-problemdetails-33eac63a2888" >}}
 {{< card icon="substack" title="Subtack" subtitle="Subscribe & read" link="https://vrnsky.substack.com/p/mastering-error-handling-in-spring" >}}
 {{< /cards >}}

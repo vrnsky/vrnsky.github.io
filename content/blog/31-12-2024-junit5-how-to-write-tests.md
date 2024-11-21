@@ -40,6 +40,6 @@ a test factory, and I agree with you, but the article is designed to give you an
 of how you can achieve more tests without writing more code.
 
 ### Access full article
-{{< cards >}}
+{{< cards cols="2" >}}
 {{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/junit-5-how-to-write-more-tests-with-less-code-23aea5e7ee16" >}}
 {{< /cards >}}

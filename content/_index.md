@@ -32,7 +32,7 @@ Happy coding, and enjoy exploring the blog! 🚀
 
 ## Explore
 
-{{< cards >}}
+{{< cards cols="2" >}}
   {{< card link="projects" title="Projects" icon="light-bulb" >}}
   {{< card link="howto" title="How to" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}

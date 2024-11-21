@@ -82,7 +82,7 @@ class StringUtilsTest {
 }
 ```
 ### Access full article
-{{< cards >}}
+{{< cards cols="2" >}}
 {{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/mastering-junit-5-advanced-techniques-for-efficient-and-powerful-testing-0203992bdb95" >}}
 {{< card icon="substack" title="Subtack" subtitle="Subscribe & read" link="https://vrnsky.substack.com/p/mastering-junit-5-advanced-techniques" >}}
 {{< /cards >}}
