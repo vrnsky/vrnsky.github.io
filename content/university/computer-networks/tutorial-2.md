@@ -85,6 +85,9 @@ bits be for the case of a two-dimensional parity scheme?
 | 1 | 0 | 0 | 1 |
 | 1 | 1 | 0 | 1 |
 
+#### Even parity scheme
+Number of 1's per row and column should be even (2, 4, 6, etc)
+
 ### Answer
 
 ### Question 2
@@ -94,3 +97,9 @@ Consider the following two-dimensional even parity matrix
 | 1 | 1 | 1 | 1 |
 | 0 | 1 | 0 | 1 |
 | 1 | 0 | 1 | 0 |
+
+### Answer
+- Two columns have odd number of ones indicicatng errors in them.
+- However, due to the position of these errors, they can only be detected in columns.
+- There s lack of intersection between the row and columns.
+- Thus, the exact position of the bit error cannot cannot be determined and corrected.
