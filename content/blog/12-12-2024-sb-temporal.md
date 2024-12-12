@@ -162,7 +162,7 @@ It maintains your workflow's state, even if systems crash or network fail.
 
 ### Access full article
 {{< cards cols="3" >}}
-{{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://vrnsky.medium.com/bulid-a-mattermost-weather-bot-with-java-a-practical-guide-d293892e5c1f" >}}
-{{< card icon="substack" title="Substack" subtitle="Subscribe & read" link="https://vrnsky.substack.com/p/bulid-a-mattermost-weather-bot-with" >}}
-{{< card icon="paper-airplane" title="Ghost" subtitle="Subscribe & read" link="https://vrnsky.ghost.io/master-java-releases-with-github-actions-and-maven-release-plugin/"  >}}
+{{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://vrnsky.medium.com/spring-boot-with-temporal-building-resillient-workflow-applications-bda17ac08662" >}}
+{{< card icon="substack" title="Substack" subtitle="Subscribe & read" link="https://open.substack.com/pub/vrnsky/p/spring-boot-with-temporal-building?r=3ypfws&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true" >}}
+{{< card icon="paper-airplane" title="Ghost" subtitle="Subscribe & read" link="https://vrnsky.ghost.io/spring-boot-with-temporal-building-resillient-workflow-applications/"  >}}
 {{< /cards >}}
