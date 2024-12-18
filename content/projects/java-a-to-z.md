@@ -7,9 +7,8 @@ next: kotlin-a-to-z
 ---
 
 ### Project description
-{{< callout type="warning" >}}
-  This project is under maintenance mode, until further notice
-{{< /callout >}}
+> [!WARNING]
+> This project is under maintenance mode, until further notice.
 
 Study project which was created during my studying on [Job4j](https://job4j.ru/). The course covers basic Java, Git, and other skills required for Java Junior Developers.
 
