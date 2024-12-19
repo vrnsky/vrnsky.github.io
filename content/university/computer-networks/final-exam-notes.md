@@ -26,11 +26,11 @@ Delays:
 - Processing delay
 - Queuing delay
 - Transmission delay
-- Propogation delay
+- Propagation delay
 
 Overview of layers
 
-##### Chapter 2 | Application Layer
+##### Chapter 2 - Application Layer
 HyperText Transfer Protocol (HTTP)
 - Use TCP
   - Client (browser) initiate TCP connection (creates socket) using port 80 to server
@@ -38,7 +38,7 @@ HyperText Transfer Protocol (HTTP)
 - Connectionfull vs connectionless mechanism
 - Persistent connection
 
-##### Chapter 3 | Transport layer
+##### Chapter 3 - Transport layer
 - Provide logical communication between process of different hosts
 Two type of protocol
 - TCP
@@ -48,6 +48,3 @@ Protocols
 - Go back and repeat
 - Selective repeat
 
-##### Chapter 4,5 |
-- [Routing algorthms](routing-algorithms)
-##### Chapter 6 |
