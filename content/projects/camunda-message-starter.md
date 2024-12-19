@@ -19,6 +19,22 @@ By using this project you can save you time.
 </dependency>
 ```
 
+### Configuration
+{{< tabs items="properties,yaml" defaultIndex="1" >}}
+
+  {{< tab >}}
+  ```properties
+    camunda.baseUrl=http://camunda:8080/engine/engine/{engineName}
+  ```
+  {{< /tab >}}
+  {{< tab >}}
+  ```yaml
+    camunda:
+      baseUrl: http://camunda:8080/engine/engine/{engineName}
+  ```
+  {{< /tab >}}
+
+{{< /tabs >}}
 ### Local development
 
 ```bash
@@ -68,10 +84,37 @@ public class CamundaController {
 }
 ```
 
+Or if you have lombok in your dependencies
+```java {filename="CamundaController.java", hl_lines=[7,13]}
+import io.vrnsky.camunda.messaging.starter.CamundaMessageTemplate;
+import io.vrnsky.camunda.messaging.starter.model.CamundaMessage;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RestController;
+import lombok.RequiredArgsConstructor;
+
+@RestController
+@RequiredArgsConstructor
+public class CamundaController {
+
+    private final CamundaMessageTemplate camundaMessageTemplate;
+
+    @PostMapping("/message")
+    public void message(@RequestBody CamundaMessage camundaMessage) {
+        camundaMessageTemplate.message(camundaMessage);
+    }
+}
+```
+
+
 In logs you should see something like this
 
 ```text
 CamundaMessageTemplate   : baseUrl obtained from configs = http://localhost:8080
 ```
-
-Full source available on [Github](https://github.com/vrnsky/camunda-messaging-starter)
+{{< cards >}}
+{{< card icon="github" title="Source code" subtitle="Contribute. We are welcome new comers" link="https://github.com/vrnsky/camunda-messaging-starter" >}}
+{{< card icon="support" title="Ask us" subtitle="Have a problem with project? Rise an issue!" link="https://github.com/vrnsky/camunda-messaging-starter/issues">}}
+{{< card icon="currency-dollar" title="Support" subtitle="I will be very happy, but it is not neccessary" link="https://ko-fi.com/vrnsky" >}}
+{{< /cards >}}
