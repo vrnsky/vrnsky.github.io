@@ -8,7 +8,7 @@ math: true
 
 ### Notes
 - Question from each chapter.
-- Explanotory question, e.g explain what is $x$?. Where $x$ is related to computer network principle, technology.
+- Explanatory question, e.g. explain what is $x$?. Where $x$ is related to computer network principle, technology.
 - True/false with reasoning.
 - Numerical questions (with some calculations), around 5 - 6 questions.
 - Routing questions.
