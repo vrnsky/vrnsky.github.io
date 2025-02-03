@@ -4,6 +4,7 @@ type: blog
 sidebar:
   open: true
 date: 2024-01-06
+comments: true
 ---
 In this article, I will show you how you can build a simple CRUD application and create a layered jar.
 The inventory service manages inventory, such as left stocks, i.e., some drinks, merch, or something else that can be stored in the warehouse.
@@ -37,4 +38,3 @@ EXPOSE 8080
 {{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/spring-boot-how-to-build-layered-jar-81bfe6d843f6" >}}
 {{< card icon="substack" title="Substack" subtitle="Subscribe & read" link="https://vrnsky.substack.com/p/spring-boot-how-to-build-layered" >}}
 {{< /cards >}}
-

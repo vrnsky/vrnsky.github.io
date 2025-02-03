@@ -4,6 +4,7 @@ type: blog
 sidebar:
   open: true
 date: 2023-12-24
+comments: true
 ---
 
 ### Introduction
@@ -14,8 +15,8 @@ I will implement a simple system in this article, as shown below.
 ![Diagram of developing system](sb-cf-kafka-1.png "Diagram of developing system")
 
 ### Implementation
-I will start with a simple example of a cloud function, 
-which is the same as a rest endpoint in the classical spring boot web application. 
+I will start with a simple example of a cloud function,
+which is the same as a rest endpoint in the classical spring boot web application.
 You can create a project from your favorite IDE or from [Spring Initliazr](https://start.spring.io/).
 
 ```xml {filename="pom.xml"}
@@ -115,7 +116,7 @@ public class FunctionConfig {
                 Pull request from %s has been reviewed by %s. Have passed all checks: %b
                 """
                 .formatted(
-                        value.author(), 
+                        value.author(),
                         value.reviewers().size(),
                         value.havePassedAllChecks()
                 );

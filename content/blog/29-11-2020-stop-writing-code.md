@@ -4,6 +4,7 @@ type: blog
 sidebar:
   open: true
 date: 2020-11-29
+comments: true
 ---
 
 ### Introduction

@@ -5,6 +5,7 @@ sidebar:
   open: true
 tags:
   - java
+comments: true
 ---
 
 ### Puzzler # 1.1

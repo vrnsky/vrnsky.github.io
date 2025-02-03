@@ -4,6 +4,7 @@ type: blog
 sidebar:
   open: true
 date: 2024-09-24
+comments: true
 ---
 
 ![Meme about unit test](meme-1.png "Meme about unit tests")
@@ -11,7 +12,7 @@ date: 2024-09-24
 Hello everyone in this article we will dive into note-worthy JUnit 5
 annotations which help you to write extensive unit tests.
 
-Before starting to start writing unit tests we have to add 
+Before starting to start writing unit tests we have to add
 required dependencies to our pom.xml or build.gradle.
 
 ```xml {filename="pom.xml"}
@@ -58,7 +59,7 @@ required dependencies to our pom.xml or build.gradle.
 ### Parametrized test
 This article will follow test — driven development approach,
 so first, we will write a unit test. Most of the examples of test units
-contain examples of testing simple calculators, but for this example, 
+contain examples of testing simple calculators, but for this example,
 we will develop a String utility class.
 
 This type of tests allow to run the same test multiple times with

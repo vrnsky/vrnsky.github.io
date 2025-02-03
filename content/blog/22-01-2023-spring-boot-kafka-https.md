@@ -4,6 +4,7 @@ type: blog
 sidebar:
   open: true
 date: 2023-01-22
+comments: true
 ---
 
 In this article, we will be developing a Spring Boot application that works with Kafka and terminates traffic via HTTPS.
@@ -69,38 +70,38 @@ Store this file at some easily accessible place, because we are going to use it 
 
 docker-compose.yml
 ```yml
-version: '3' 
- 
-services: 
- zookeeper: 
-   image: confluentinc/cp-zookeeper:latest 
-   container_name: zookeper 
-   environment: 
-     ZOOKEEPER_CLIENT_PORT: 2181 
-     ZOOKEEPER_TICK_TIME: 2000 
-   ports: 
-     - 22181:2181 
- kafka: 
-   image: confluentinc/cp-kafka:latest 
-   container_name: kafka 
-   depends_on: 
-     - zookeeper 
-   ports: 
-     - 29093:29093 
-   environment: 
-     KAFKA_BROKER_ID: 1 
-     KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181 
-     KAFKA_ADVERTISED_LISTENERS: SSL://localhost:29093 
-     KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1 
-     KAFKA_SSL_KEYSTORE_FILENAME: kafka.broker1.keystore.jks 
-     KAFKA_SSL_KEYSTORE_CREDENTIALS: broker1_keystore_creds 
-     KAFKA_SSL_KEY_CREDENTIALS: broker1_sslkey_creds 
-     KAFKA_SSL_TRUSTSTORE_FILENAME: kafka.broker1.truststore.jks 
-     KAFKA_SSL_ENDPOINT_IDENTIFICATION_ALGORITHM: " " 
-     KAFKA_SSL_TRUSTSTORE_CREDENTIALS: broker1_truststore_creds 
-     KAFKA_SSL_CLIENT_AUTH: requested 
-     KAFKA_SECURITY_INTER_BROKER_PROTOCOL: SSL 
-     volumes: 
+version: '3'
+
+services:
+ zookeeper:
+   image: confluentinc/cp-zookeeper:latest
+   container_name: zookeper
+   environment:
+     ZOOKEEPER_CLIENT_PORT: 2181
+     ZOOKEEPER_TICK_TIME: 2000
+   ports:
+     - 22181:2181
+ kafka:
+   image: confluentinc/cp-kafka:latest
+   container_name: kafka
+   depends_on:
+     - zookeeper
+   ports:
+     - 29093:29093
+   environment:
+     KAFKA_BROKER_ID: 1
+     KAFKA_ZOOKEEPER_CONNECT: zookeeper:2181
+     KAFKA_ADVERTISED_LISTENERS: SSL://localhost:29093
+     KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR: 1
+     KAFKA_SSL_KEYSTORE_FILENAME: kafka.broker1.keystore.jks
+     KAFKA_SSL_KEYSTORE_CREDENTIALS: broker1_keystore_creds
+     KAFKA_SSL_KEY_CREDENTIALS: broker1_sslkey_creds
+     KAFKA_SSL_TRUSTSTORE_FILENAME: kafka.broker1.truststore.jks
+     KAFKA_SSL_ENDPOINT_IDENTIFICATION_ALGORITHM: " "
+     KAFKA_SSL_TRUSTSTORE_CREDENTIALS: broker1_truststore_creds
+     KAFKA_SSL_CLIENT_AUTH: requested
+     KAFKA_SECURITY_INTER_BROKER_PROTOCOL: SSL
+     volumes:
        - ./secrets:/etc/kafka/secret
 ```
 

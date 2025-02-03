@@ -4,6 +4,7 @@ type: blog
 sidebar:
   open: true
 date: 2024-08-15
+comments: true
 ---
 
 ![Garbage Collector](gc-1.png "Garbage collector")

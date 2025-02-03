@@ -5,6 +5,7 @@ sidebar:
   open: true
 tags:
   - maven
+comments: true
 ---
 
 This question you may have heard or may ask during a job interview.

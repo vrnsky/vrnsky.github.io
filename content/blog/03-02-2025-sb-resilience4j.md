@@ -4,6 +4,7 @@ type: blog
 sidebar:
   open: true
 date: 2025-02-03
+comments: true
 ---
 
 A comprehensive guide to implementing resilient microservices: from basic circuit breaker patterns to advanced monitoring with Prometheus and Grafana

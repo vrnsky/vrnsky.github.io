@@ -4,11 +4,12 @@ type: blog
 sidebar:
   open: true
 date: 2024-11-21
+comments: true
 ---
 
 ### Introduction
 In today's cloud-native world, managing infrastructure by hand is no
-longer practical. Infrastructure as Code (IaC) has emerged as the de facto 
+longer practical. Infrastructure as Code (IaC) has emerged as the de facto
 standard for managing cloud resources. Terraform has dominated this space with
 its domain-specific language. Pulumi takes a different approach, which benefits Java Developers.
 

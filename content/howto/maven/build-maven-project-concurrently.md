@@ -6,6 +6,7 @@ sidebar:
 next: build-maven-project-without-tests
 tags:
   - maven
+comments: true
 ---
 
 If you would like to run build of Maven project in concurrent mode you can use following command
