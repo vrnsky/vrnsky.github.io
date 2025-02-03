@@ -69,3 +69,13 @@ params:
   editURL:
     enable: false
     base: "https://github.com/vrnsky/vrnsky.github.io/edit/main/content"
+
+  comments:
+    enable: false
+    type: giscus
+
+    giscus:
+      repo: vrnsky/vrnsky.github.io
+      repoId: R_kgDOM_c-gQ
+      category: General
+      categoryId: DIC_kwDOM_c-gc4CmnaZ

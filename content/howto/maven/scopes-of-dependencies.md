@@ -5,6 +5,7 @@ sidebar:
   open: true
 tags:
   - maven
+comments: true
 ---
 
 

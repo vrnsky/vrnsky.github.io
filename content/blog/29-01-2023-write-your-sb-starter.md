@@ -4,6 +4,7 @@ type: blog
 sidebar:
   open: true
 date: 2023-01-23
+comments: true
 ---
 
 Some companies use [Camunda(TM) BPMN Engine](https://camunda.com/) for managing the business automatization process. Most of the functionality provided out of the box is enough for most cases. But recently I have realized that we have always written our service to send messages to the engine.
@@ -140,14 +141,14 @@ I decided to use Maven as a build tool, so it is my pom.xml file
 
 </project>
 ```
-We use some dependency as spring-boot-web-starter because we need RestTemplate class for HTTP calls. There are dependencies for Kotlin and Logging. 
+We use some dependency as spring-boot-web-starter because we need RestTemplate class for HTTP calls. There are dependencies for Kotlin and Logging.
 For building projects, I use the following command
 
 ```bash
 mvn clean kotlin:compile install
 ```
 
-So, let’s start with defining model classes of objects which start will be working with. 
+So, let’s start with defining model classes of objects which start will be working with.
 Before we start writing code — I strongly advise checking the actual [documentation of Camunda messaging](https://docs.camunda.org/manual/7.16/reference/rest/message/post-message/).
 
 ```kolin

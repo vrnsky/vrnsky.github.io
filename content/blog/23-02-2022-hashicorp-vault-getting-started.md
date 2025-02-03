@@ -4,6 +4,7 @@ type: blog
 sidebar:
   open: true
 date: 2022-02-23
+comments: true
 ---
 
 Hi, there! It is a text version of the Vault webinar

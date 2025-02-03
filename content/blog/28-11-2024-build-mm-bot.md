@@ -4,6 +4,7 @@ type: blog
 sidebar:
   open: true
 date: 2024-11-28
+comments: true
 ---
 
 ### Introduction

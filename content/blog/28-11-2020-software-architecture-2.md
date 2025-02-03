@@ -4,6 +4,7 @@ type: blog
 sidebar:
   open: true
 date: 2020-11-28
+comments: true
 ---
 
 ![Software architecture](software-architecture-3.png)

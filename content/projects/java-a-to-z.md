@@ -4,6 +4,7 @@ type: docs
 sidebar:
   open: true
 next: kotlin-a-to-z
+comments: true
 ---
 
 ### Project description

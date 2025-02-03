@@ -4,6 +4,7 @@ type: blog
 sidebar:
   open: true
 date: 2023-11-26
+comments: true
 ---
 ### Introduction
 Digital image processing is the acquisition, analysis, and performing of a wide range of operations on an image.
@@ -25,7 +26,7 @@ For binary images, width * height, since each pixel requires 1 bit, we can omit 
 For grayscale image: width * height * 8, since each pixel is represented by 8 bits
 For RGB image: width * height * 8 * 3, because it has 3 planes, each plane contains values in a range from 0 to 255
 
-Let’s start with image acquisition. In this article, I will be using Python and the OpenCV library. 
+Let’s start with image acquisition. In this article, I will be using Python and the OpenCV library.
 We can use the method `imread` from the OpenCV library for image acquisition.
 
 ```python {filename="main.py"}

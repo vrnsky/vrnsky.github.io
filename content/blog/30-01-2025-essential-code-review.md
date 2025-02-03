@@ -4,6 +4,7 @@ type: blog
 sidebar:
   open: true
 date: 2025-01-30
+comments: true
 ---
 
 Code reviews are crucial for software quality, but without proper best practices,

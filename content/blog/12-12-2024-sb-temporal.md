@@ -4,17 +4,18 @@ type: blog
 sidebar:
   open: true
 date: 2024-12-12
+comments: true
 ---
 A guide to building resilient, distributed apps with Spring Boot and Temporal's orchestration.
 
 ### Introduction
-Building reliable distributed applications can be challenging. System crash, network fail, and processes 
+Building reliable distributed applications can be challenging. System crash, network fail, and processes
 can get stuck halfway through execution. This is where Temporal comes in. It is an open-source workflow orchestration platform.
 When combined with Spring Boot, it helps you build robust apps. These apps can handle real-world challenges.
 
 ### Why should you care about Temporal?
-If you've worked with distributed systems, you've likely faced process failures. They can leave your system inconsistent. 
-They processed a payment but didn't update the order. Or, they sent an email but didn't update the database. 
+If you've worked with distributed systems, you've likely faced process failures. They can leave your system inconsistent.
+They processed a payment but didn't update the order. Or, they sent an email but didn't update the database.
 Temporal solve these problems. It provides durable execution, automatic retries, and state management.
 With Spring Boot, Temporal gives you tools for complex processes. It also keeps familiar Spring ecosystem you know.
 You get the best of both worlds. You get Spring's dependency injection and configuration. You also get Temporal's workflow management features.
@@ -155,7 +156,7 @@ networks:
 
 ### Understanding how Temporal works
 ![Temporal diagram](sb-temporal-1.png)
-Think of Temporal as a sophisticated task manager for your distributed processes. 
+Think of Temporal as a sophisticated task manager for your distributed processes.
 When your Spring Boot app want to start a workflow, it talks to Temporal via the WorkflowClient.
 Temporal then manages the entire process. It ensures each step achieves success.
 It maintains your workflow's state, even if systems crash or network fail.

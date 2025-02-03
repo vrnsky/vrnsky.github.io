@@ -4,19 +4,20 @@ type: blog
 sidebar:
   open: true
 date: 2024-05-30
+comments: true
 ---
 
 Hello everyone! In this article, I’ll show you how to employ
 Infisical in your Spring Boot application.
 
-But last year, HashiCorp changed Terraform’s license to non-open source. 
+But last year, HashiCorp changed Terraform’s license to non-open source.
 This could also happen to Vault, or not.
 The second reason why I chose Infisical for this article is because
 IBM acquired Terraform this year.
 
 ### Introduction
 Like the HashiCorp Vault, Infisical is a secret management platform.
-Let’s start by starting up the Infisical instance locally with the docker-compose 
+Let’s start by starting up the Infisical instance locally with the docker-compose
 file provided by the documentation. First, we need to download it with the following command.
 
 ```bash

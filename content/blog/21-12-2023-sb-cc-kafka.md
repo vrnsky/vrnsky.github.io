@@ -4,6 +4,7 @@ type: blog
 sidebar:
   open: true
 date: 2023-12-21
+comments: true
 ---
 
 ### Introduction
@@ -13,7 +14,7 @@ The Spring Cloud Bus, according to documentation:
 
 > Spring Cloud Bus links nodes of a distributed system with a lightweight message broker.
 > This can then broadcast state changes (e.g., configuration changes) or other management instructions.
-> AMQP and Kafka broker implementations are included in the project. 
+> AMQP and Kafka broker implementations are included in the project.
 > Alternatively, any [Spring Cloud Stream](https://spring.io/projects/spring-cloud-stream) binder on the classpath will work out of the box as a transport.
 
 I will start from common practice nowadays without a message broker.

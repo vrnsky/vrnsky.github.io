@@ -6,6 +6,7 @@ sidebar:
 tags:
   - maven
 next: know-what-dependency-do-you-have
+comments: true
 ---
 
 If you would like to run build of Maven project in concurrent mode you can use following command
