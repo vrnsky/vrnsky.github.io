@@ -33,7 +33,7 @@ If these calls succeed, the circuit moves back to closed state. If they fail, it
 
 ### Access full article
 {{< cards cols="3" >}}
-{{< card icon="medium" title="Medium" subtitle="Follow & read" link="=https://vrnsky.medium.com/spring-boot-resilience4j-mastering-circuit-breakers-with-prometheus-and-grafana-1b9b97911c43" >}}
+{{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://vrnsky.medium.com/spring-boot-resilience4j-mastering-circuit-breakers-with-prometheus-and-grafana-1b9b97911c43" >}}
 {{< card icon="substack" title="Substack" subtitle="Subscribe & read" link="https://open.substack.com/pub/vrnsky/p/spring-boot-and-resilience4j-mastering?r=3ypfws&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"  >}}
 {{< card icon="paper-airplane" title="Ghost" subtitle="Subscribe & read" link="https://vrnsky.ghost.io/spring-boot-resilience4j-mastering-circuit-breakers-with-prometheus-and-grafana/"  >}}
 {{< /cards >}}
