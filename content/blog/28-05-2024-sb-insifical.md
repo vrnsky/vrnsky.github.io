@@ -37,7 +37,7 @@ docker-compose -f docker-compose.yml up
 
 After that, you should see this screen at `localhost:8080`
 
-![Infisical](infisical-1.png "Login page")
+![Infisical](/images/infisical/infisical-1.png "Login page")
 
 ### Access full article
 {{< cards cols="2" >}}

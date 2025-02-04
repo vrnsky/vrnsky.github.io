@@ -11,7 +11,7 @@ comments: true
 Greetings to everyone who reads this post! Due to my work, I often run into novice programmers and look at their code. Sometimes it is beautiful, sometimes not, but I understand that a person learns, and the further he masters the best practices and technologies, the better his code becomes. But I would still like to pay some attention
 to such a simple task that almost all novice programmers face — writing a calculator.
 
-![Calculator image](calculator.png)
+![Calculator image](/images/calculator/calculator.png)
 
 Here’s what novice programmers write:
 ```java {filename="Calculator.java"}

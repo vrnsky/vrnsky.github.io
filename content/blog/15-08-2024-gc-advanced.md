@@ -7,7 +7,7 @@ date: 2024-08-15
 comments: true
 ---
 
-![Garbage Collector](gc-1.png "Garbage collector")
+![Garbage Collector](/images/gc/gc-1.png "Garbage collector")
 Hello everyone! In this article, we discuss advanced Java Garbage Collection: G1 and ZGC.
 
 Introduction

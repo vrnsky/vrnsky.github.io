@@ -7,7 +7,7 @@ date: 2024-09-24
 comments: true
 ---
 
-![Meme about unit test](meme-1.png "Meme about unit tests")
+![Meme about unit test](/images/junit/meme-1.png "Meme about unit tests")
 
 Hello everyone in this article we will dive into note-worthy JUnit 5
 annotations which help you to write extensive unit tests.
