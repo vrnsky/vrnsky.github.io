@@ -9,7 +9,7 @@ comments: true
 
 A comprehensive guide to implementing resilient microservices: from basic circuit breaker patterns to advanced monitoring with Prometheus and Grafana
 
-![Electrical chain](sb02032025.png "Electrical chain")
+![Electrical chain](/images/2025-02-03-sb-resilience4j/1.png "Electrical chain")
 
 ### Introduction
 Imagine you’re building a microservice—based application where many services depend on each other. What happens when one

@@ -20,7 +20,7 @@ Property-based testing is a method. Instead of writing specific test cases,
 you define properties. Your code must meet them in all cases. The testing
 framework then generates many test cases to verify these properties.
 
-![Unit testing vs property based testing](./jqwik1.png)
+![Unit testing vs property based testing](/images/jqwik/jqwik1.png)
 
 For example, instead of writing
 

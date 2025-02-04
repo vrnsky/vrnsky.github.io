@@ -20,7 +20,7 @@ brew install hashicorp/tap/vault
 ```
 
 After successful installation, we can check that Vault in the PATH
-![PATH image](hashicorp-1.png)
+![PATH image](/images/hashicorp/hashicorp-1.png)
 
 In this tutorial, we are going to use Consul as the backend for our Vault. The Consuls is basically key-value storage
 
@@ -30,7 +30,7 @@ brew install hashicorp/tap/consul
 ```
 
 After this, we can check that installation was successful
-![Consul Working](consul-1.png)
+![Consul Working](/images/hashicorp/consul-1.png)
 
 ### Access full article
 {{< cards cols="2" >}}

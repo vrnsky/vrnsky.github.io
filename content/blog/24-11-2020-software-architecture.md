@@ -11,11 +11,11 @@ Introduction
 In this article I will try to explain what is architecture, clean architecture, architector role in project
 
 Examples of web architecture application
-![Software architecture](software-architecture-1.png)
+![Software architecture](/images/software-architecture/software-architecture-1.png)
 Let’s consider an example of a service with one architectural level (Single Tier)
 
 In an application with one architectural level, the user interface, business logic, that is, the backend part of the application and the database are on the same server
-![Software Architecture 2](software-architecture-2.png)
+![Software Architecture 2](/images/software/architecture/software-architecture-2.png)
 An example of an application with one architectural level are applications such as MS Office, GIMP
 
 ### Benefits of using a single-layer architecture

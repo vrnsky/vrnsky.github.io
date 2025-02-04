@@ -155,7 +155,7 @@ networks:
 ```
 
 ### Understanding how Temporal works
-![Temporal diagram](sb-temporal-1.png)
+![Temporal diagram](/images/sb-temporal/sb-temporal-1.png)
 Think of Temporal as a sophisticated task manager for your distributed processes.
 When your Spring Boot app want to start a workflow, it talks to Temporal via the WorkflowClient.
 Temporal then manages the entire process. It ensures each step achieves success.

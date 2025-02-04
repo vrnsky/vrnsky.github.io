@@ -12,7 +12,7 @@ This article will show how to use the Spring Cloud Functions projects. The Sprin
 Nowadays, the usage of message brokers such as Kafka has increased.
 I will implement a simple system in this article, as shown below.
 
-![Diagram of developing system](sb-cf-kafka-1.png "Diagram of developing system")
+![Diagram of developing system](/images/eda/sb-cf-kafka-1.png "Diagram of developing system")
 
 ### Implementation
 I will start with a simple example of a cloud function,
