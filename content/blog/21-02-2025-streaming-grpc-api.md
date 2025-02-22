@@ -18,7 +18,7 @@ Let's create a weather monitoring service. It will stream temperature updates to
 
 ### Types of gRPC streaming
 Before we start coding, let's understand the three types of streaming gRPC offers:
-Server streaming: the server sends multiple response to a single client request.
+Server streaming: the server sends multiple responses to a single client request.
 Client streaming: the client sends many messages to the server.
 Bidirectional streaming: both the server and multiple messages at the same time.
 
