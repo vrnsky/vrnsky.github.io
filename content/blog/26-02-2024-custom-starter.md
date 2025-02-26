@@ -3,7 +3,7 @@ title: Building a custom Spring Boot Starter - From theory to practice
 type: blog
 sidebar:
   open: true
-date: 2025-02-24
+date: 2025-02-26
 comments: true
 ---
 
@@ -45,5 +45,5 @@ Spring Boot has specific naming conventions for custom starters:
 {{< cards cols="3" >}}
 {{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://vrnsky.medium.com/building-a-custom-spring-boot-starter-from-theory-to-practice-f8639d893ac3" >}}
 {{< card icon="substack" title="Substack" subtitle="Subscribe & read" link="https://open.substack.com/pub/vrnsky/p/building-a-custom-spring-boot-starter?r=3ypfws&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"  >}}
-{{< card icon="paper-airplane" title="Ghost" subtitle="Subscribe & read" link="https://vrnsky.ghost.io/spring-boot-resilience4j-mastering-circuit-breakers-with-prometheus-and-grafana/"  >}}
+{{< card icon="paper-airplane" title="Ghost" subtitle="Subscribe & read" link="https://vrnsky.ghost.io/building-a-custom-spring-boot-starter-from-theory-to-practice/"  >}}
 {{< /cards >}}
