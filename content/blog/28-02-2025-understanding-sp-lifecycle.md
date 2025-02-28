@@ -92,6 +92,6 @@ These phases handle bean initialization through callbacks and custom methods.
 ### Access full article
 {{< cards cols="3" >}}
 {{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://vrnsky.medium.com/understanding-spring-bean-lifecycle-ee0781ab7368" >}}
-{{< card icon="substack" title="Substack" subtitle="Subscribe & read" link="https://open.substack.com/pub/vrnsky/p/building-a-custom-spring-boot-starter?r=3ypfws&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"  >}}
+{{< card icon="substack" title="Substack" subtitle="Subscribe & read" link="https://open.substack.com/pub/vrnsky/p/understanding-spring-bean-lifecycle?r=3ypfws&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"  >}}
 {{< card icon="paper-airplane" title="Ghost" subtitle="Subscribe & read" link="https://vrnsky.ghost.io/understanding-spring-bean-lifecycle/"  >}}
 {{< /cards >}}
