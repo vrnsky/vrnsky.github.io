@@ -1,5 +1,5 @@
 ---
-title: Understanding Spring Beab Lifecycle
+title: Understanding Spring Bean Lifecycle
 type: blog
 sidebar:
   open: true
