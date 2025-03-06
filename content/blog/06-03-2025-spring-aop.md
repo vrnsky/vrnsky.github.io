@@ -5,7 +5,7 @@ sidebar:
   open: true
 date: 2025-03-06
 comments: true
-draft: true
+draft: false
 ---
 
 ![Under Hood](/images/2025-03-06-aop/underhood.png "Under hood")
@@ -116,7 +116,7 @@ the call to your real impelementation.
 
 ### Access full article
 {{< cards cols="3" >}}
-{{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://vrnsky.medium.com/spring-boot-resilience4j-mastering-circuit-breakers-with-prometheus-and-grafana-1b9b97911c43" >}}
-{{< card icon="substack" title="Substack" subtitle="Subscribe & read" link="https://open.substack.com/pub/vrnsky/p/spring-boot-and-resilience4j-mastering?r=3ypfws&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"  >}}
-{{< card icon="paper-airplane" title="Ghost" subtitle="Subscribe & read" link="https://vrnsky.ghost.io/spring-boot-resilience4j-mastering-circuit-breakers-with-prometheus-and-grafana/"  >}}
+{{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://vrnsky.medium.com/spring-aop-under-the-hood-how-proxies-work-9499fec7f0a2" >}}
+{{< card icon="substack" title="Substack" subtitle="Subscribe & read" link="https://open.substack.com/pub/vrnsky/p/spring-aop-under-the-hood-how-proxies?r=3ypfws&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"  >}}
+{{< card icon="paper-airplane" title="Ghost" subtitle="Subscribe & read" link="https://vrnsky.ghost.io/spring-aop-under-the-hood-how-proxies-work/"  >}}
 {{< /cards >}}
