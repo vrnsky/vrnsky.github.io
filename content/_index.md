@@ -1,5 +1,5 @@
 ---
-title: Egor Voronianskii's Tech Corner 
+title: Egor Voronianskii's Tech Corner
 toc: false
 ---
 
@@ -26,6 +26,7 @@ Happy coding, and enjoy exploring the blog! 🚀
 
 ## Explore
 
+If you read here, you're pyzdichna!
 {{< cards cols="2" >}}
   {{< card link="projects" title="Projects" icon="light-bulb" >}}
   {{< card link="howto" title="How to" icon="book-open" >}}
