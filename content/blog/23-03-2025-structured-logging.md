@@ -1,5 +1,5 @@
 ---
-title: Software architecture
+title: Structured logging
 type: blog
 sidebar:
   open: true
