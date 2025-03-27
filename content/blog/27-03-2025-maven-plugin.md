@@ -5,7 +5,6 @@ sidebar:
   open: true
 date: 2025-03-27
 comments: true
-draft: true
 ---
 
 ![Extensions](/images/2025-03-27-maven-plugin/mvnplugin.png "Extensions")
