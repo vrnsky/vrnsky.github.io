@@ -129,3 +129,5 @@ public class FunctionConfig {
 {{< cards cols="2" >}}
 {{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/spring-cloud-functions-kafka-how-to-interact-asynchronous-456193d09ff1" >}}
 {{< /cards >}}
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J416GZA5)

@@ -67,3 +67,5 @@ The application class loader is what you'll interact with most often. It load:
 {{< card icon="substack" title="Substack" subtitle="Subscribe & read" link="https://open.substack.com/pub/vrnsky/p/demysifying-java-classloaders-a-deep?r=3ypfws&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"  >}}
 {{< card icon="paper-airplane" title="Ghost" subtitle="Subscribe & read" link="https://vrnsky.ghost.io/demysifying-java-classloaders-a-deep-dive-into-the-jvms-loading-mechanism/"  >}}
 {{< /cards >}}
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J416GZA5)

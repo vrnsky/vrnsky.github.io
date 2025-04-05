@@ -47,3 +47,5 @@ Spring Boot has specific naming conventions for custom starters:
 {{< card icon="substack" title="Substack" subtitle="Subscribe & read" link="https://open.substack.com/pub/vrnsky/p/building-a-custom-spring-boot-starter?r=3ypfws&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"  >}}
 {{< card icon="paper-airplane" title="Ghost" subtitle="Subscribe & read" link="https://vrnsky.ghost.io/building-a-custom-spring-boot-starter-from-theory-to-practice/"  >}}
 {{< /cards >}}
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J416GZA5)}

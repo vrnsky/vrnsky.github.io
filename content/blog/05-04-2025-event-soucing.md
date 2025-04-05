@@ -286,3 +286,5 @@ place these in `src/main/avro` directory. First, let's crate base event schema
 {{< card icon="paper-airplane" title="Ghost" subtitle="Subscribe & read" link="https://vrnsky.ghost.io/event-sourcing-with-spring-boot-kafka-and-jooq/"  >}}
 {{< card icon="craft" title="Craft" subtitle="Buy password & read" link="https://vrnsky.craft.me/1WrWfqw77nNrk8"  >}}
 {{< /cards >}}
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J416GZA5)

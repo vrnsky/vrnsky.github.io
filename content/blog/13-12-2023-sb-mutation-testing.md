@@ -32,3 +32,5 @@ if the mutation survived, that is a bad sign that the unit test did not die with
 {{< cards cols="2" >}}
 {{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/spring-boot-mutation-testing-with-junit-5-testcontainiers-and-pit-1f70e22753ef" >}}
 {{< /cards >}}
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J416GZA5)

@@ -120,3 +120,5 @@ the call to your real impelementation.
 {{< card icon="substack" title="Substack" subtitle="Subscribe & read" link="https://open.substack.com/pub/vrnsky/p/spring-aop-under-the-hood-how-proxies?r=3ypfws&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true"  >}}
 {{< card icon="paper-airplane" title="Ghost" subtitle="Subscribe & read" link="https://vrnsky.ghost.io/spring-aop-under-the-hood-how-proxies-work/"  >}}
 {{< /cards >}}
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J416GZA5)

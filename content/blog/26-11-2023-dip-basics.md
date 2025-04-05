@@ -65,3 +65,5 @@ cv.destroyAllWindows()
 {{< cards cols="2" >}}
 {{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/digital-image-processing-basics-58d572cf5df4" >}}
 {{< /cards >}}
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J416GZA5)

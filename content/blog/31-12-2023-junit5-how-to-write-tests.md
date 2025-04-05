@@ -44,3 +44,5 @@ of how you can achieve more tests without writing more code.
 {{< cards cols="2" >}}
 {{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/junit-5-how-to-write-more-tests-with-less-code-23aea5e7ee16" >}}
 {{< /cards >}}
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J416GZA5)

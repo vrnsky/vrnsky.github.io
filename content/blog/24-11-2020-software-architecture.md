@@ -32,3 +32,5 @@ An example of an application with one architectural level are applications such 
 {{< cards cols="2" >}}
 {{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/software-architecture-7a3630d66f0d">}}
 {{< /cards >}}
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J416GZA5)

@@ -88,3 +88,5 @@ Structured logging in Spring Boot 3.4. makes it significantly easier to adopt mo
 Remember that structured logging works best when paired with a log aggregation system like ELK Stack or Grafana Loki. The real power comes when you can easily query and visualize your logs at scale.
 
 Happy coding!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J416GZA5)

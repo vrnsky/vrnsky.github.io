@@ -98,3 +98,5 @@ the home page of a running MatterMost instance.
 {{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://vrnsky.medium.com/bulid-a-mattermost-weather-bot-with-java-a-practical-guide-d293892e5c1f" >}}
 {{< card icon="substack" title="Substack" subtitle="Subscribe & read" link="https://vrnsky.substack.com/p/bulid-a-mattermost-weather-bot-with" >}}
 {{< /cards >}}
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J416GZA5)

@@ -72,3 +72,5 @@ What practice you found helpful in your code reviews? Share you experience in th
 {{< card icon="substack" title="Substack" subtitle="Subscribe & read" link="https://vrnsky.substack.com"  >}}
 {{< card icon="paper-airplane" title="Ghost" subtitle="Subscribe & read" link="https://vrnsky.ghost.io"  >}}
 {{< /cards >}}
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J416GZA5)

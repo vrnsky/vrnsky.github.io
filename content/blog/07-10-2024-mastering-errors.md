@@ -62,3 +62,5 @@ public class ProblemDetailsConfig {
 {{< card icon="medium" title="Medium" subtitle="Follow & read" link="https://medium.com/@vrnsky/mastering-error-handling-in-spring-boot-with-problemdetails-33eac63a2888" >}}
 {{< card icon="substack" title="Subtack" subtitle="Subscribe & read" link="https://vrnsky.substack.com/p/mastering-error-handling-in-spring" >}}
 {{< /cards >}}
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J416GZA5)
