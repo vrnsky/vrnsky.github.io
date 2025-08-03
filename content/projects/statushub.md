@@ -12,8 +12,8 @@ comments: true
 #### Don't let downtime cost you money
 {{< cards cols="3" >}}
 {{< card link="https://statushub.app?utm_source=https://vrnsky.dev&utm_medium=blog" title="Prevent it with Status Hub" image="../img/financial-losses.png" subtitle="Start free trial today" >}}
-{{< card link="https://statushub.app?utm_source=https://vrnsky.dev" title="Protect you reputation" image="../img/reputational-damage.png" subtitle="Set up your first monitor" >}}
-{{< card link="https://statushub.app?utm_source=https://vrnsky.dev" title="Simple and easy" image="../img/technical-complexity.png" subtitle="No DevOps knowledge required" method="Resize" options="600x q80 webp" >}}
+{{< card link="https://statushub.app?utm_source=https://vrnsky.dev&utm_medium_blog" title="Protect you reputation" image="../img/reputational-damage.png" subtitle="Set up your first monitor" >}}
+{{< card link="https://statushub.app?utm_source=https://vrnsky.dev&utm_medium=blog" title="Simple and easy" image="../img/technical-complexity.png" subtitle="No DevOps knowledge required" method="Resize" options="600x q80 webp" >}}
 {{< /cards >}}
 
 ### Protect your business with Status Hub
