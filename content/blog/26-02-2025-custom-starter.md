@@ -48,4 +48,12 @@ Spring Boot has specific naming conventions for custom starters:
 {{< card icon="paper-airplane" title="Ghost" subtitle="Subscribe & read" link="https://vrnsky.ghost.io/building-a-custom-spring-boot-starter-from-theory-to-practice/"  >}}
 {{< /cards >}}
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J416GZA5)}
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J416GZA5)
+
+### Status Hub
+Status Hub is simple uptime monitoring for your business. Start your free trial today!
+Have a question? We are ready to answer!
+{{< cards cols="2" >}}
+{{< card link="https://statushub.app?utm_source=https://vrnsky.dev&utm_medium=blog" title="Start your 2 weeks free trial" icon="beaker" subtitle="No credit card required" >}}
+{{< card link="mailto:support@statushub.app" title="Have a question?" icon="mail" subtitle="Ask us" >}}
+{{< /cards >}}

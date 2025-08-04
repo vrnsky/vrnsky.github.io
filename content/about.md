@@ -32,6 +32,9 @@ I believe in the power of community and open source. I've had the pleasure of co
 
 These experiences have been incredibly rewarding, allowing me to collaborate with talented developers worldwide and give back to the community that has taught me so much.
 
+## Pet projects
+- [StatusHub - Simple uptime monitoring for your business](https://statushub.app?utm_source=https://vrnsky.dev&utm_medium=blog) 
+
 ## Beyond the Code
 
 When I'm not immersed in Java code, you can find me:
