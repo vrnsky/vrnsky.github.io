@@ -3,7 +3,7 @@ title: TypeScript A to Z
 type: docs
 sidebar:
   open: true
-next: typescript-a-to-z
+next: work-clock-sentry
 comments: true
 ---
 
