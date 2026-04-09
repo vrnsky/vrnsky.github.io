@@ -82,7 +82,7 @@ Java 8–17 · Spring Boot 2.x–3.x · Camunda BPM 7/8 · PostgreSQL · Apache 
 ---
 
 ### Java Developer — BPC Group
-**July 2018 — August 2020 · 2 years 2 months**
+**July 2018 — December 2020 · 2 years 2 months**
 
 *International company in payment technologies and processing.*
 
