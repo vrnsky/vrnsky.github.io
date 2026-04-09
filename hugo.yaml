@@ -30,30 +30,28 @@ menu:
     - name: Blog
       weight: 4
       pageRef: /blog
-    - name: Search
+    - name: Resume
       weight: 4
+      pageRef: /resume
+    - name: Search
+      weight: 5
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 6
       url: "https://github.com/vrnsky"
       params:
         icon: github
     - name: Substack
-      weight: 6
+      weight: 7
       url: "https://vrnsky.substack.com"
       params:
         icon: substack
     - name: Medium
-      weight: 7
+      weight: 8
       url: "https://vrnsky.medium.com"
       params:
         icon: medium
-    - name: Mastodon
-      weight: 8
-      url: "https://me.dm/@vrnsky"
-      params:
-        icon: mastodon
 services:
   googleAnalytics:
     ID: G-GDQMTGSQTJ
