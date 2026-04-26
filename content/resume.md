@@ -9,7 +9,7 @@ type: page
 **Senior Java Developer / Tech Lead**
 
 {{< cards >}}
-{{< card title="voronyansky.egor@yandex.ru" icon="mail" link="mailto:voronyansky.egor@yandex.ru" >}}
+{{< card title="egor@vrnsky.dev" icon="mail" link="mailto:egor@vrnsky.dev" >}}
 {{< card title="@vrnsky on Telegram" icon="chat-alt-2" link="https://t.me/vrnsky" >}}
 {{< card title="github.com/vrnsky" icon="code" link="https://github.com/vrnsky" >}}
 {{< card title="Moscow region · Remote" icon="location-marker" >}}
